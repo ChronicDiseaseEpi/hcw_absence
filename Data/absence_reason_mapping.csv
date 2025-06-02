@@ -1,0 +1,39 @@
+original_term,mapped_term
+cold,s13 cold cough flu – influenza
+cold/influenza,s13 cold cough flu – influenza
+genito-urinary,s26 genitourinary & gynaecological disorders
+hypertension,s19 heart cardiac & circulatory problems
+infections,s27 infectious diseases
+musculo-skeletal back,s11 back problems
+musculo-skeletal other joint lower limb,s12 other musculoskeletal problems
+not known,s99 unknown causes / not specified
+pregnancy related,s30 pregnancy related disorders
+psychological,s10 anxiety/stress/depression/other psychiatric illnesses
+stress,s10 anxiety/stress/depression/other psychiatric illnesses
+surgery,s98 other known causes - not elsewhere classified
+s10 anxiety/stress/depression/other psychiatric illnesses,s10 anxiety/stress/depression/other psychiatric illnesses
+s11 back problems,s11 back problems
+s12 other musculoskeletal problems,s12 other musculoskeletal problems
+s13 cold cough flu – influenza,s13 cold cough flu – influenza
+s14 asthma,s14 asthma
+s15 chest & respiratory problems,s15 chest & respiratory problems
+s16 headache / migraine,s16 headache / migraine
+s17 benign and malignant tumours cancers,s17 benign and malignant tumours cancers
+s18 blood disorders,s18 blood disorders
+s19 heart cardiac & circulatory problems,s19 heart cardiac & circulatory problems
+s20 burns poisoning frostbite hypothermia,s20 burns poisoning frostbite hypothermia
+s21 ear nose throat (ent),s21 ear nose throat (ent)
+s22 dental and oral problems,s22 dental and oral problems
+s23 eye problems,s23 eye problems
+s24 endocrine / glandular problems,s24 endocrine / glandular problems
+s25 gastrointestinal problems,s25 gastrointestinal problems
+s26 genitourinary & gynaecological disorders,s26 genitourinary & gynaecological disorders
+s27 infectious diseases,s27 infectious diseases
+s28 injury fracture,s28 injury fracture
+s29 nervous system disorders,s29 nervous system disorders
+s30 pregnancy related disorders,s30 pregnancy related disorders
+s31 skin disorders,s31 skin disorders
+s32 substance abuse,s32 substance abuse
+s98 other known causes - not elsewhere classified,s98 other known causes - not elsewhere classified
+s99 unknown causes / not specified,s99 unknown causes / not specified
+s13 cold cough flu - influenza,s13 cold cough flu - influenza

@@ -1,0 +1,651 @@
+DATE,STAFF_GROUP,REASON,FTE_DAYS_LOST,FTE_DAYS_AVAILABLE
+31/08/2023,All staff groups,ALL REASONS,2096677.89005,43104875.10275
+31/08/2023,All staff groups,S10 Anxiety/stress/depression/other psychiatric illnesses,581176.06888,0.0
+31/08/2023,All staff groups,S11 Back Problems,101231.11354,0.0
+31/08/2023,All staff groups,S12 Other musculoskeletal problems,198930.88507,0.0
+31/08/2023,All staff groups,S13 Cold Cough Flu - Influenza,147119.73114,0.0
+31/08/2023,All staff groups,S14 Asthma,5054.93199,0.0
+31/08/2023,All staff groups,S15 Chest & respiratory problems,80134.86999,0.0
+31/08/2023,All staff groups,S16 Headache / migraine,55650.547,0.0
+31/08/2023,All staff groups,S17 Benign and malignant tumours cancers,61633.02306,0.0
+31/08/2023,All staff groups,S18 Blood disorders,8465.01487,0.0
+31/08/2023,All staff groups,S19 Heart cardiac & circulatory problems,48161.70525,0.0
+31/08/2023,All staff groups,S20 Burns poisoning frostbite hypothermia,1640.87658,0.0
+31/08/2023,All staff groups,S21 Ear nose throat (ENT),40309.13625,0.0
+31/08/2023,All staff groups,S22 Dental and oral problems,11045.87943,0.0
+31/08/2023,All staff groups,S23 Eye problems,20975.5346,0.0
+31/08/2023,All staff groups,S24 Endocrine / glandular problems,10713.19928,0.0
+31/08/2023,All staff groups,S25 Gastrointestinal problems,166026.5634,0.0
+31/08/2023,All staff groups,S26 Genitourinary & gynaecological disorders,74126.84147,0.0
+31/08/2023,All staff groups,S27 Infectious diseases,62583.86431,0.0
+31/08/2023,All staff groups,S28 Injury fracture,112291.42035,0.0
+31/08/2023,All staff groups,S29 Nervous system disorders,22369.10369,0.0
+31/08/2023,All staff groups,S30 Pregnancy related disorders,68989.34371,0.0
+31/08/2023,All staff groups,S31 Skin disorders,14733.16417,0.0
+31/08/2023,All staff groups,S32 Substance abuse,1024.84459,0.0
+31/08/2023,All staff groups,S98 Other known causes - not elsewhere classified,141514.38136,0.0
+31/08/2023,All staff groups,S99 Unknown causes / Not specified,60775.84607,0.0
+31/08/2023,NHS infrastructure support,ALL REASONS,324887.19297,7920953.37876
+31/08/2023,Other staff or those with unknown classification,ALL REASONS,1423.56369,78831.86404
+31/08/2023,Professionally qualified clinical staff,ALL REASONS,914520.12388,22148365.98407
+31/08/2023,Support to clinical staff,ALL REASONS,855847.00951,12956723.87588
+31/08/2023,Ambulance staff,ALL REASONS,36450.09821,599490.16203
+31/08/2023,Central functions,ALL REASONS,150505.64545,4328200.34008
+31/08/2023,HCHS Doctors,ALL REASONS,68758.70441,4410686.7166
+31/08/2023,"Hotel, property & estates",ALL REASONS,143720.74981,2101198.03354
+31/08/2023,Managers,ALL REASONS,22586.90405,1029486.90795
+31/08/2023,Midwives,ALL REASONS,41998.25245,720899.12932
+31/08/2023,Nurses & health visitors,ALL REASONS,571052.46413,11001868.9702
+31/08/2023,"Scientific, therapeutic & technical staff",ALL REASONS,196260.60468,5415421.00592
+31/08/2023,Senior managers,ALL REASONS,8073.89366,462068.09719
+31/08/2023,Support to ST&T staff,ALL REASONS,148789.01196,2636799.14231
+31/08/2023,Support to ambulance staff,ALL REASONS,62649.1014,812836.44697
+31/08/2023,"Support to doctors, nurses & midwives",ALL REASONS,644408.89615,9507088.2866
+31/08/2023,Associate Specialist,ALL REASONS,1762.85067,72738.60244
+31/08/2023,Consultant,ALL REASONS,26485.13741,1755237.65963
+31/08/2023,Core Training,ALL REASONS,9974.7205,632935.48534
+31/08/2023,Foundation Doctor Year 1,ALL REASONS,1982.61875,235354.82125
+31/08/2023,Foundation Doctor Year 2,ALL REASONS,3578.96625,218566.20125
+31/08/2023,Hospital Practitioner / Clinical Assistant,ALL REASONS,466.52609,22754.76727
+31/08/2023,Other and Local HCHS Doctor Grades,ALL REASONS,1154.5789300000001,40279.46086
+31/08/2023,Specialty Doctor,ALL REASONS,7422.6967,274591.9926
+31/08/2023,Specialty Registrar,ALL REASONS,15798.50911,1147376.41836
+31/08/2023,Staff Grade,ALL REASONS,132.1,10851.3076
+31/08/2023,NHS infrastructure support,S10 Anxiety/stress/depression/other psychiatric illnesses,97482.39245,0.0
+31/08/2023,NHS infrastructure support,S11 Back Problems,16281.37812,0.0
+31/08/2023,NHS infrastructure support,S12 Other musculoskeletal problems,32351.96307,0.0
+31/08/2023,NHS infrastructure support,S13 Cold Cough Flu - Influenza,18497.50282,0.0
+31/08/2023,NHS infrastructure support,S14 Asthma,707.3866,0.0
+31/08/2023,NHS infrastructure support,S15 Chest & respiratory problems,12952.12607,0.0
+31/08/2023,NHS infrastructure support,S16 Headache / migraine,7157.58898,0.0
+31/08/2023,NHS infrastructure support,S17 Benign and malignant tumours cancers,12991.5348,0.0
+31/08/2023,NHS infrastructure support,S18 Blood disorders,1880.01429,0.0
+31/08/2023,NHS infrastructure support,S19 Heart cardiac & circulatory problems,9064.0388,0.0
+31/08/2023,NHS infrastructure support,S20 Burns poisoning frostbite hypothermia,213.25327000000001,0.0
+31/08/2023,NHS infrastructure support,S21 Ear nose throat (ENT),5888.18013,0.0
+31/08/2023,NHS infrastructure support,S22 Dental and oral problems,1649.23858,0.0
+31/08/2023,NHS infrastructure support,S23 Eye problems,4223.86473,0.0
+31/08/2023,NHS infrastructure support,S24 Endocrine / glandular problems,1519.96611,0.0
+31/08/2023,NHS infrastructure support,S25 Gastrointestinal problems,23158.78879,0.0
+31/08/2023,NHS infrastructure support,S26 Genitourinary & gynaecological disorders,8711.34614,0.0
+31/08/2023,NHS infrastructure support,S27 Infectious diseases,7358.41886,0.0
+31/08/2023,NHS infrastructure support,S28 Injury fracture,17666.33563,0.0
+31/08/2023,NHS infrastructure support,S29 Nervous system disorders,3280.49684,0.0
+31/08/2023,NHS infrastructure support,S30 Pregnancy related disorders,4316.26414,0.0
+31/08/2023,NHS infrastructure support,S31 Skin disorders,2048.38631,0.0
+31/08/2023,NHS infrastructure support,S32 Substance abuse,183.2,0.0
+31/08/2023,NHS infrastructure support,S98 Other known causes - not elsewhere classified,23325.58468,0.0
+31/08/2023,NHS infrastructure support,S99 Unknown causes / Not specified,11977.94276,0.0
+31/08/2023,Other staff or those with unknown classification,S10 Anxiety/stress/depression/other psychiatric illnesses,268.08006,0.0
+31/08/2023,Other staff or those with unknown classification,S11 Back Problems,52.17337,0.0
+31/08/2023,Other staff or those with unknown classification,S12 Other musculoskeletal problems,106.46669,0.0
+31/08/2023,Other staff or those with unknown classification,S13 Cold Cough Flu - Influenza,168.01333,0.0
+31/08/2023,Other staff or those with unknown classification,S15 Chest & respiratory problems,33.5,0.0
+31/08/2023,Other staff or those with unknown classification,S16 Headache / migraine,35.78667,0.0
+31/08/2023,Other staff or those with unknown classification,S17 Benign and malignant tumours cancers,49.84,0.0
+31/08/2023,Other staff or those with unknown classification,S19 Heart cardiac & circulatory problems,66.0,0.0
+31/08/2023,Other staff or those with unknown classification,S20 Burns poisoning frostbite hypothermia,3.0,0.0
+31/08/2023,Other staff or those with unknown classification,S21 Ear nose throat (ENT),3.66668,0.0
+31/08/2023,Other staff or those with unknown classification,S22 Dental and oral problems,8.0,0.0
+31/08/2023,Other staff or those with unknown classification,S23 Eye problems,6.4,0.0
+31/08/2023,Other staff or those with unknown classification,S24 Endocrine / glandular problems,4.0,0.0
+31/08/2023,Other staff or those with unknown classification,S25 Gastrointestinal problems,132.86677,0.0
+31/08/2023,Other staff or those with unknown classification,S26 Genitourinary & gynaecological disorders,41.8,0.0
+31/08/2023,Other staff or those with unknown classification,S27 Infectious diseases,93.6,0.0
+31/08/2023,Other staff or those with unknown classification,S28 Injury fracture,5.0,0.0
+31/08/2023,Other staff or those with unknown classification,S30 Pregnancy related disorders,43.4,0.0
+31/08/2023,Other staff or those with unknown classification,S31 Skin disorders,11.0,0.0
+31/08/2023,Other staff or those with unknown classification,S98 Other known causes - not elsewhere classified,178.17000000000002,0.0
+31/08/2023,Other staff or those with unknown classification,S99 Unknown causes / Not specified,112.80011999999999,0.0
+31/08/2023,Professionally qualified clinical staff,S10 Anxiety/stress/depression/other psychiatric illnesses,243573.6839,0.0
+31/08/2023,Professionally qualified clinical staff,S11 Back Problems,39388.97771,0.0
+31/08/2023,Professionally qualified clinical staff,S12 Other musculoskeletal problems,77804.94109000001,0.0
+31/08/2023,Professionally qualified clinical staff,S13 Cold Cough Flu - Influenza,75784.89695,0.0
+31/08/2023,Professionally qualified clinical staff,S14 Asthma,2078.56229,0.0
+31/08/2023,Professionally qualified clinical staff,S15 Chest & respiratory problems,34183.0409,0.0
+31/08/2023,Professionally qualified clinical staff,S16 Headache / migraine,25429.25418,0.0
+31/08/2023,Professionally qualified clinical staff,S17 Benign and malignant tumours cancers,26563.91423,0.0
+31/08/2023,Professionally qualified clinical staff,S18 Blood disorders,2940.20364,0.0
+31/08/2023,Professionally qualified clinical staff,S19 Heart cardiac & circulatory problems,18568.19991,0.0
+31/08/2023,Professionally qualified clinical staff,S20 Burns poisoning frostbite hypothermia,731.10927,0.0
+31/08/2023,Professionally qualified clinical staff,S21 Ear nose throat (ENT),17945.75343,0.0
+31/08/2023,Professionally qualified clinical staff,S22 Dental and oral problems,4826.48741,0.0
+31/08/2023,Professionally qualified clinical staff,S23 Eye problems,8659.08954,0.0
+31/08/2023,Professionally qualified clinical staff,S24 Endocrine / glandular problems,4431.99317,0.0
+31/08/2023,Professionally qualified clinical staff,S25 Gastrointestinal problems,70630.68949,0.0
+31/08/2023,Professionally qualified clinical staff,S26 Genitourinary & gynaecological disorders,34458.40509,0.0
+31/08/2023,Professionally qualified clinical staff,S27 Infectious diseases,30464.95104,0.0
+31/08/2023,Professionally qualified clinical staff,S28 Injury fracture,45667.919,0.0
+31/08/2023,Professionally qualified clinical staff,S29 Nervous system disorders,9146.98129,0.0
+31/08/2023,Professionally qualified clinical staff,S30 Pregnancy related disorders,43877.36706,0.0
+31/08/2023,Professionally qualified clinical staff,S31 Skin disorders,6265.92083,0.0
+31/08/2023,Professionally qualified clinical staff,S32 Substance abuse,475.51146,0.0
+31/08/2023,Professionally qualified clinical staff,S98 Other known causes - not elsewhere classified,63887.26392,0.0
+31/08/2023,Professionally qualified clinical staff,S99 Unknown causes / Not specified,26735.00708,0.0
+31/08/2023,Support to clinical staff,S10 Anxiety/stress/depression/other psychiatric illnesses,239851.91247,0.0
+31/08/2023,Support to clinical staff,S11 Back Problems,45508.58434,0.0
+31/08/2023,Support to clinical staff,S12 Other musculoskeletal problems,88667.51422,0.0
+31/08/2023,Support to clinical staff,S13 Cold Cough Flu - Influenza,52669.31804,0.0
+31/08/2023,Support to clinical staff,S14 Asthma,2268.9831,0.0
+31/08/2023,Support to clinical staff,S15 Chest & respiratory problems,32966.20302,0.0
+31/08/2023,Support to clinical staff,S16 Headache / migraine,23027.91717,0.0
+31/08/2023,Support to clinical staff,S17 Benign and malignant tumours cancers,22027.73403,0.0
+31/08/2023,Support to clinical staff,S18 Blood disorders,3644.79694,0.0
+31/08/2023,Support to clinical staff,S19 Heart cardiac & circulatory problems,20463.46654,0.0
+31/08/2023,Support to clinical staff,S20 Burns poisoning frostbite hypothermia,693.51404,0.0
+31/08/2023,Support to clinical staff,S21 Ear nose throat (ENT),16471.53601,0.0
+31/08/2023,Support to clinical staff,S22 Dental and oral problems,4562.15344,0.0
+31/08/2023,Support to clinical staff,S23 Eye problems,8086.18033,0.0
+31/08/2023,Support to clinical staff,S24 Endocrine / glandular problems,4757.24,0.0
+31/08/2023,Support to clinical staff,S25 Gastrointestinal problems,72104.21835,0.0
+31/08/2023,Support to clinical staff,S26 Genitourinary & gynaecological disorders,30915.29024,0.0
+31/08/2023,Support to clinical staff,S27 Infectious diseases,24666.89441,0.0
+31/08/2023,Support to clinical staff,S28 Injury fracture,48952.16572,0.0
+31/08/2023,Support to clinical staff,S29 Nervous system disorders,9941.62556,0.0
+31/08/2023,Support to clinical staff,S30 Pregnancy related disorders,20752.31251,0.0
+31/08/2023,Support to clinical staff,S31 Skin disorders,6407.85703,0.0
+31/08/2023,Support to clinical staff,S32 Substance abuse,366.13313,0.0
+31/08/2023,Support to clinical staff,S98 Other known causes - not elsewhere classified,54123.36276,0.0
+31/08/2023,Support to clinical staff,S99 Unknown causes / Not specified,21950.09611,0.0
+31/08/2023,Ambulance staff,S10 Anxiety/stress/depression/other psychiatric illnesses,9997.42792,0.0
+31/08/2023,Ambulance staff,S11 Back Problems,3254.27585,0.0
+31/08/2023,Ambulance staff,S12 Other musculoskeletal problems,3614.33431,0.0
+31/08/2023,Ambulance staff,S13 Cold Cough Flu - Influenza,1669.22771,0.0
+31/08/2023,Ambulance staff,S14 Asthma,64.59360000000001,0.0
+31/08/2023,Ambulance staff,S15 Chest & respiratory problems,958.39699,0.0
+31/08/2023,Ambulance staff,S16 Headache / migraine,798.58278,0.0
+31/08/2023,Ambulance staff,S17 Benign and malignant tumours cancers,448.37245,0.0
+31/08/2023,Ambulance staff,S18 Blood disorders,104.6232,0.0
+31/08/2023,Ambulance staff,S19 Heart cardiac & circulatory problems,731.96839,0.0
+31/08/2023,Ambulance staff,S20 Burns poisoning frostbite hypothermia,41.768,0.0
+31/08/2023,Ambulance staff,S21 Ear nose throat (ENT),759.9337400000001,0.0
+31/08/2023,Ambulance staff,S22 Dental and oral problems,102.72748,0.0
+31/08/2023,Ambulance staff,S23 Eye problems,370.30691,0.0
+31/08/2023,Ambulance staff,S24 Endocrine / glandular problems,167.56659,0.0
+31/08/2023,Ambulance staff,S25 Gastrointestinal problems,2952.53984,0.0
+31/08/2023,Ambulance staff,S26 Genitourinary & gynaecological disorders,873.39012,0.0
+31/08/2023,Ambulance staff,S27 Infectious diseases,869.25373,0.0
+31/08/2023,Ambulance staff,S28 Injury fracture,4308.55166,0.0
+31/08/2023,Ambulance staff,S29 Nervous system disorders,284.00955,0.0
+31/08/2023,Ambulance staff,S30 Pregnancy related disorders,365.05263,0.0
+31/08/2023,Ambulance staff,S31 Skin disorders,234.1668,0.0
+31/08/2023,Ambulance staff,S32 Substance abuse,31.0,0.0
+31/08/2023,Ambulance staff,S98 Other known causes - not elsewhere classified,2223.28369,0.0
+31/08/2023,Ambulance staff,S99 Unknown causes / Not specified,1224.74427,0.0
+31/08/2023,Central functions,S10 Anxiety/stress/depression/other psychiatric illnesses,53686.7025,0.0
+31/08/2023,Central functions,S11 Back Problems,5366.21966,0.0
+31/08/2023,Central functions,S12 Other musculoskeletal problems,8209.56492,0.0
+31/08/2023,Central functions,S13 Cold Cough Flu - Influenza,9994.65263,0.0
+31/08/2023,Central functions,S14 Asthma,443.93337,0.0
+31/08/2023,Central functions,S15 Chest & respiratory problems,5692.27958,0.0
+31/08/2023,Central functions,S16 Headache / migraine,4386.28727,0.0
+31/08/2023,Central functions,S17 Benign and malignant tumours cancers,6024.4956,0.0
+31/08/2023,Central functions,S18 Blood disorders,728.74748,0.0
+31/08/2023,Central functions,S19 Heart cardiac & circulatory problems,3165.59848,0.0
+31/08/2023,Central functions,S20 Burns poisoning frostbite hypothermia,38.8,0.0
+31/08/2023,Central functions,S21 Ear nose throat (ENT),3114.1582,0.0
+31/08/2023,Central functions,S22 Dental and oral problems,840.13762,0.0
+31/08/2023,Central functions,S23 Eye problems,2041.7771,0.0
+31/08/2023,Central functions,S24 Endocrine / glandular problems,798.39979,0.0
+31/08/2023,Central functions,S25 Gastrointestinal problems,10293.87049,0.0
+31/08/2023,Central functions,S26 Genitourinary & gynaecological disorders,4096.45026,0.0
+31/08/2023,Central functions,S27 Infectious diseases,3433.40482,0.0
+31/08/2023,Central functions,S28 Injury fracture,5500.96037,0.0
+31/08/2023,Central functions,S29 Nervous system disorders,1579.00594,0.0
+31/08/2023,Central functions,S30 Pregnancy related disorders,2951.00721,0.0
+31/08/2023,Central functions,S31 Skin disorders,846.93065,0.0
+31/08/2023,Central functions,S32 Substance abuse,33.0,0.0
+31/08/2023,Central functions,S98 Other known causes - not elsewhere classified,11954.988730000001,0.0
+31/08/2023,Central functions,S99 Unknown causes / Not specified,5284.27278,0.0
+31/08/2023,HCHS Doctors,S10 Anxiety/stress/depression/other psychiatric illnesses,16047.81992,0.0
+31/08/2023,HCHS Doctors,S11 Back Problems,2197.29875,0.0
+31/08/2023,HCHS Doctors,S12 Other musculoskeletal problems,3675.70275,0.0
+31/08/2023,HCHS Doctors,S13 Cold Cough Flu - Influenza,7110.22674,0.0
+31/08/2023,HCHS Doctors,S14 Asthma,152.45625,0.0
+31/08/2023,HCHS Doctors,S15 Chest & respiratory problems,2569.75312,0.0
+31/08/2023,HCHS Doctors,S16 Headache / migraine,1523.51671,0.0
+31/08/2023,HCHS Doctors,S17 Benign and malignant tumours cancers,3057.2583,0.0
+31/08/2023,HCHS Doctors,S18 Blood disorders,145.6249,0.0
+31/08/2023,HCHS Doctors,S19 Heart cardiac & circulatory problems,1416.4969,0.0
+31/08/2023,HCHS Doctors,S20 Burns poisoning frostbite hypothermia,19.78125,0.0
+31/08/2023,HCHS Doctors,S21 Ear nose throat (ENT),1032.97,0.0
+31/08/2023,HCHS Doctors,S22 Dental and oral problems,265.43135,0.0
+31/08/2023,HCHS Doctors,S23 Eye problems,628.48175,0.0
+31/08/2023,HCHS Doctors,S24 Endocrine / glandular problems,237.94375,0.0
+31/08/2023,HCHS Doctors,S25 Gastrointestinal problems,4837.04283,0.0
+31/08/2023,HCHS Doctors,S26 Genitourinary & gynaecological disorders,1468.39779,0.0
+31/08/2023,HCHS Doctors,S27 Infectious diseases,2943.75795,0.0
+31/08/2023,HCHS Doctors,S28 Injury fracture,4047.79125,0.0
+31/08/2023,HCHS Doctors,S29 Nervous system disorders,584.0175,0.0
+31/08/2023,HCHS Doctors,S30 Pregnancy related disorders,1442.13875,0.0
+31/08/2023,HCHS Doctors,S31 Skin disorders,304.28249999999997,0.0
+31/08/2023,HCHS Doctors,S32 Substance abuse,44.725,0.0
+31/08/2023,HCHS Doctors,S98 Other known causes - not elsewhere classified,7638.3744,0.0
+31/08/2023,HCHS Doctors,S99 Unknown causes / Not specified,5367.414,0.0
+31/08/2023,"Hotel, property & estates",S10 Anxiety/stress/depression/other psychiatric illnesses,32456.94988,0.0
+31/08/2023,"Hotel, property & estates",S11 Back Problems,10269.4918,0.0
+31/08/2023,"Hotel, property & estates",S12 Other musculoskeletal problems,22734.67813,0.0
+31/08/2023,"Hotel, property & estates",S13 Cold Cough Flu - Influenza,6900.67167,0.0
+31/08/2023,"Hotel, property & estates",S14 Asthma,254.45323000000002,0.0
+31/08/2023,"Hotel, property & estates",S15 Chest & respiratory problems,6089.84651,0.0
+31/08/2023,"Hotel, property & estates",S16 Headache / migraine,2236.22846,0.0
+31/08/2023,"Hotel, property & estates",S17 Benign and malignant tumours cancers,4809.1592,0.0
+31/08/2023,"Hotel, property & estates",S18 Blood disorders,1046.26681,0.0
+31/08/2023,"Hotel, property & estates",S19 Heart cardiac & circulatory problems,4903.28032,0.0
+31/08/2023,"Hotel, property & estates",S20 Burns poisoning frostbite hypothermia,174.45327,0.0
+31/08/2023,"Hotel, property & estates",S21 Ear nose throat (ENT),2259.82193,0.0
+31/08/2023,"Hotel, property & estates",S22 Dental and oral problems,726.90096,0.0
+31/08/2023,"Hotel, property & estates",S23 Eye problems,1827.26777,0.0
+31/08/2023,"Hotel, property & estates",S24 Endocrine / glandular problems,560.67309,0.0
+31/08/2023,"Hotel, property & estates",S25 Gastrointestinal problems,10867.4181,0.0
+31/08/2023,"Hotel, property & estates",S26 Genitourinary & gynaecological disorders,3709.74268,0.0
+31/08/2023,"Hotel, property & estates",S27 Infectious diseases,3142.92729,0.0
+31/08/2023,"Hotel, property & estates",S28 Injury fracture,11340.09189,0.0
+31/08/2023,"Hotel, property & estates",S29 Nervous system disorders,1432.8909,0.0
+31/08/2023,"Hotel, property & estates",S30 Pregnancy related disorders,969.87016,0.0
+31/08/2023,"Hotel, property & estates",S31 Skin disorders,1034.02323,0.0
+31/08/2023,"Hotel, property & estates",S32 Substance abuse,119.2,0.0
+31/08/2023,"Hotel, property & estates",S98 Other known causes - not elsewhere classified,8820.10603,0.0
+31/08/2023,"Hotel, property & estates",S99 Unknown causes / Not specified,5034.3365,0.0
+31/08/2023,Managers,S10 Anxiety/stress/depression/other psychiatric illnesses,8278.03966,0.0
+31/08/2023,Managers,S11 Back Problems,456.66666,0.0
+31/08/2023,Managers,S12 Other musculoskeletal problems,1143.23331,0.0
+31/08/2023,Managers,S13 Cold Cough Flu - Influenza,1193.81851,0.0
+31/08/2023,Managers,S14 Asthma,9.0,0.0
+31/08/2023,Managers,S15 Chest & respiratory problems,897.0,0.0
+31/08/2023,Managers,S16 Headache / migraine,427.97327,0.0
+31/08/2023,Managers,S17 Benign and malignant tumours cancers,1407.28,0.0
+31/08/2023,Managers,S18 Blood disorders,101.0,0.0
+31/08/2023,Managers,S19 Heart cardiac & circulatory problems,813.86,0.0
+31/08/2023,Managers,S21 Ear nose throat (ENT),403.7,0.0
+31/08/2023,Managers,S22 Dental and oral problems,78.2,0.0
+31/08/2023,Managers,S23 Eye problems,254.28663,0.0
+31/08/2023,Managers,S24 Endocrine / glandular problems,128.29323,0.0
+31/08/2023,Managers,S25 Gastrointestinal problems,1408.78018,0.0
+31/08/2023,Managers,S26 Genitourinary & gynaecological disorders,698.7732,0.0
+31/08/2023,Managers,S27 Infectious diseases,580.16675,0.0
+31/08/2023,Managers,S28 Injury fracture,597.55004,0.0
+31/08/2023,Managers,S29 Nervous system disorders,229.6,0.0
+31/08/2023,Managers,S30 Pregnancy related disorders,345.78677,0.0
+31/08/2023,Managers,S31 Skin disorders,158.43243,0.0
+31/08/2023,Managers,S32 Substance abuse,31.0,0.0
+31/08/2023,Managers,S98 Other known causes - not elsewhere classified,1672.50326,0.0
+31/08/2023,Managers,S99 Unknown causes / Not specified,1271.96015,0.0
+31/08/2023,Midwives,S10 Anxiety/stress/depression/other psychiatric illnesses,13739.2583,0.0
+31/08/2023,Midwives,S11 Back Problems,1556.35589,0.0
+31/08/2023,Midwives,S12 Other musculoskeletal problems,3589.40276,0.0
+31/08/2023,Midwives,S13 Cold Cough Flu - Influenza,2406.50868,0.0
+31/08/2023,Midwives,S14 Asthma,52.68,0.0
+31/08/2023,Midwives,S15 Chest & respiratory problems,1335.58622,0.0
+31/08/2023,Midwives,S16 Headache / migraine,1011.07852,0.0
+31/08/2023,Midwives,S17 Benign and malignant tumours cancers,806.3067,0.0
+31/08/2023,Midwives,S18 Blood disorders,86.03998,0.0
+31/08/2023,Midwives,S19 Heart cardiac & circulatory problems,848.52225,0.0
+31/08/2023,Midwives,S20 Burns poisoning frostbite hypothermia,9.626660000000001,0.0
+31/08/2023,Midwives,S21 Ear nose throat (ENT),772.33318,0.0
+31/08/2023,Midwives,S22 Dental and oral problems,143.15337,0.0
+31/08/2023,Midwives,S23 Eye problems,523.18656,0.0
+31/08/2023,Midwives,S24 Endocrine / glandular problems,334.20641,0.0
+31/08/2023,Midwives,S25 Gastrointestinal problems,2991.59193,0.0
+31/08/2023,Midwives,S26 Genitourinary & gynaecological disorders,1871.07252,0.0
+31/08/2023,Midwives,S27 Infectious diseases,1020.01406,0.0
+31/08/2023,Midwives,S28 Injury fracture,2077.75502,0.0
+31/08/2023,Midwives,S29 Nervous system disorders,460.05979,0.0
+31/08/2023,Midwives,S30 Pregnancy related disorders,1815.35859,0.0
+31/08/2023,Midwives,S31 Skin disorders,234.8612,0.0
+31/08/2023,Midwives,S98 Other known causes - not elsewhere classified,3369.36236,0.0
+31/08/2023,Midwives,S99 Unknown causes / Not specified,943.9315,0.0
+31/08/2023,Nurses & health visitors,S10 Anxiety/stress/depression/other psychiatric illnesses,149040.23612,0.0
+31/08/2023,Nurses & health visitors,S11 Back Problems,25640.31268,0.0
+31/08/2023,Nurses & health visitors,S12 Other musculoskeletal problems,52415.47507,0.0
+31/08/2023,Nurses & health visitors,S13 Cold Cough Flu - Influenza,45808.53204,0.0
+31/08/2023,Nurses & health visitors,S14 Asthma,1419.05338,0.0
+31/08/2023,Nurses & health visitors,S15 Chest & respiratory problems,21636.27575,0.0
+31/08/2023,Nurses & health visitors,S16 Headache / migraine,16233.05873,0.0
+31/08/2023,Nurses & health visitors,S17 Benign and malignant tumours cancers,15167.54797,0.0
+31/08/2023,Nurses & health visitors,S18 Blood disorders,2146.74685,0.0
+31/08/2023,Nurses & health visitors,S19 Heart cardiac & circulatory problems,12071.00604,0.0
+31/08/2023,Nurses & health visitors,S20 Burns poisoning frostbite hypothermia,516.67996,0.0
+31/08/2023,Nurses & health visitors,S21 Ear nose throat (ENT),10983.83545,0.0
+31/08/2023,Nurses & health visitors,S22 Dental and oral problems,3238.80754,0.0
+31/08/2023,Nurses & health visitors,S23 Eye problems,5628.33559,0.0
+31/08/2023,Nurses & health visitors,S24 Endocrine / glandular problems,2884.38776,0.0
+31/08/2023,Nurses & health visitors,S25 Gastrointestinal problems,43895.23575,0.0
+31/08/2023,Nurses & health visitors,S26 Genitourinary & gynaecological disorders,23545.84648,0.0
+31/08/2023,Nurses & health visitors,S27 Infectious diseases,18362.77706,0.0
+31/08/2023,Nurses & health visitors,S28 Injury fracture,27051.52855,0.0
+31/08/2023,Nurses & health visitors,S29 Nervous system disorders,5671.55832,0.0
+31/08/2023,Nurses & health visitors,S30 Pregnancy related disorders,33683.66988,0.0
+31/08/2023,Nurses & health visitors,S31 Skin disorders,4431.42729,0.0
+31/08/2023,Nurses & health visitors,S32 Substance abuse,205.4,0.0
+31/08/2023,Nurses & health visitors,S98 Other known causes - not elsewhere classified,36310.71373,0.0
+31/08/2023,Nurses & health visitors,S99 Unknown causes / Not specified,13064.01614,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S10 Anxiety/stress/depression/other psychiatric illnesses,54748.94164,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S11 Back Problems,6740.73454,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S12 Other musculoskeletal problems,14510.0262,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S13 Cold Cough Flu - Influenza,18790.40178,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S14 Asthma,389.77906,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S15 Chest & respiratory problems,7683.02882,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S16 Headache / migraine,5863.01744,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S17 Benign and malignant tumours cancers,7084.42881,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S18 Blood disorders,457.16871,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S19 Heart cardiac & circulatory problems,3500.20633,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S20 Burns poisoning frostbite hypothermia,143.2534,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S21 Ear nose throat (ENT),4396.68106,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S22 Dental and oral problems,1076.36767,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S23 Eye problems,1508.77873,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S24 Endocrine / glandular problems,807.88866,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S25 Gastrointestinal problems,15954.27914,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S26 Genitourinary & gynaecological disorders,6699.69818,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S27 Infectious diseases,7269.14824,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S28 Injury fracture,8182.29252,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S29 Nervous system disorders,2147.33613,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S30 Pregnancy related disorders,6571.14721,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S31 Skin disorders,1061.18304,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S32 Substance abuse,194.38646,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S98 Other known causes - not elsewhere classified,14345.52974,0.0
+31/08/2023,"Scientific, therapeutic & technical staff",S99 Unknown causes / Not specified,6134.90117,0.0
+31/08/2023,Senior managers,S10 Anxiety/stress/depression/other psychiatric illnesses,3060.70041,0.0
+31/08/2023,Senior managers,S11 Back Problems,189.0,0.0
+31/08/2023,Senior managers,S12 Other musculoskeletal problems,264.48671,0.0
+31/08/2023,Senior managers,S13 Cold Cough Flu - Influenza,408.36001,0.0
+31/08/2023,Senior managers,S15 Chest & respiratory problems,272.99998,0.0
+31/08/2023,Senior managers,S16 Headache / migraine,107.09998,0.0
+31/08/2023,Senior managers,S17 Benign and malignant tumours cancers,750.6,0.0
+31/08/2023,Senior managers,S18 Blood disorders,4.0,0.0
+31/08/2023,Senior managers,S19 Heart cardiac & circulatory problems,181.3,0.0
+31/08/2023,Senior managers,S21 Ear nose throat (ENT),110.5,0.0
+31/08/2023,Senior managers,S22 Dental and oral problems,4.0,0.0
+31/08/2023,Senior managers,S23 Eye problems,100.53323,0.0
+31/08/2023,Senior managers,S24 Endocrine / glandular problems,32.6,0.0
+31/08/2023,Senior managers,S25 Gastrointestinal problems,588.72002,0.0
+31/08/2023,Senior managers,S26 Genitourinary & gynaecological disorders,206.38,0.0
+31/08/2023,Senior managers,S27 Infectious diseases,201.92,0.0
+31/08/2023,Senior managers,S28 Injury fracture,227.73333,0.0
+31/08/2023,Senior managers,S29 Nervous system disorders,39.0,0.0
+31/08/2023,Senior managers,S30 Pregnancy related disorders,49.6,0.0
+31/08/2023,Senior managers,S31 Skin disorders,9.0,0.0
+31/08/2023,Senior managers,S98 Other known causes - not elsewhere classified,877.98666,0.0
+31/08/2023,Senior managers,S99 Unknown causes / Not specified,387.37333,0.0
+31/08/2023,Support to ST&T staff,S10 Anxiety/stress/depression/other psychiatric illnesses,43330.0247,0.0
+31/08/2023,Support to ST&T staff,S11 Back Problems,7583.39647,0.0
+31/08/2023,Support to ST&T staff,S12 Other musculoskeletal problems,13987.44953,0.0
+31/08/2023,Support to ST&T staff,S13 Cold Cough Flu - Influenza,11213.57291,0.0
+31/08/2023,Support to ST&T staff,S14 Asthma,362.89999,0.0
+31/08/2023,Support to ST&T staff,S15 Chest & respiratory problems,5793.62404,0.0
+31/08/2023,Support to ST&T staff,S16 Headache / migraine,4638.38682,0.0
+31/08/2023,Support to ST&T staff,S17 Benign and malignant tumours cancers,4099.14154,0.0
+31/08/2023,Support to ST&T staff,S18 Blood disorders,709.30661,0.0
+31/08/2023,Support to ST&T staff,S19 Heart cardiac & circulatory problems,2677.64802,0.0
+31/08/2023,Support to ST&T staff,S20 Burns poisoning frostbite hypothermia,109.7,0.0
+31/08/2023,Support to ST&T staff,S21 Ear nose throat (ENT),3336.99763,0.0
+31/08/2023,Support to ST&T staff,S22 Dental and oral problems,836.46684,0.0
+31/08/2023,Support to ST&T staff,S23 Eye problems,1393.26649,0.0
+31/08/2023,Support to ST&T staff,S24 Endocrine / glandular problems,783.81999,0.0
+31/08/2023,Support to ST&T staff,S25 Gastrointestinal problems,12911.44326,0.0
+31/08/2023,Support to ST&T staff,S26 Genitourinary & gynaecological disorders,4951.66882,0.0
+31/08/2023,Support to ST&T staff,S27 Infectious diseases,4638.60494,0.0
+31/08/2023,Support to ST&T staff,S28 Injury fracture,7096.01038,0.0
+31/08/2023,Support to ST&T staff,S29 Nervous system disorders,1611.15332,0.0
+31/08/2023,Support to ST&T staff,S30 Pregnancy related disorders,2922.99405,0.0
+31/08/2023,Support to ST&T staff,S31 Skin disorders,972.98442,0.0
+31/08/2023,Support to ST&T staff,S32 Substance abuse,52.72,0.0
+31/08/2023,Support to ST&T staff,S98 Other known causes - not elsewhere classified,9261.07632,0.0
+31/08/2023,Support to ST&T staff,S99 Unknown causes / Not specified,3514.65487,0.0
+31/08/2023,Support to ambulance staff,S10 Anxiety/stress/depression/other psychiatric illnesses,17618.47261,0.0
+31/08/2023,Support to ambulance staff,S11 Back Problems,4146.87916,0.0
+31/08/2023,Support to ambulance staff,S12 Other musculoskeletal problems,5999.22949,0.0
+31/08/2023,Support to ambulance staff,S13 Cold Cough Flu - Influenza,2274.49499,0.0
+31/08/2023,Support to ambulance staff,S14 Asthma,129.96112,0.0
+31/08/2023,Support to ambulance staff,S15 Chest & respiratory problems,2557.14878,0.0
+31/08/2023,Support to ambulance staff,S16 Headache / migraine,1468.77011,0.0
+31/08/2023,Support to ambulance staff,S17 Benign and malignant tumours cancers,838.73228,0.0
+31/08/2023,Support to ambulance staff,S18 Blood disorders,145.68,0.0
+31/08/2023,Support to ambulance staff,S19 Heart cardiac & circulatory problems,1751.37588,0.0
+31/08/2023,Support to ambulance staff,S20 Burns poisoning frostbite hypothermia,77.66677,0.0
+31/08/2023,Support to ambulance staff,S21 Ear nose throat (ENT),1214.31612,0.0
+31/08/2023,Support to ambulance staff,S22 Dental and oral problems,439.76335,0.0
+31/08/2023,Support to ambulance staff,S23 Eye problems,506.76679,0.0
+31/08/2023,Support to ambulance staff,S24 Endocrine / glandular problems,539.70134,0.0
+31/08/2023,Support to ambulance staff,S25 Gastrointestinal problems,5869.08105,0.0
+31/08/2023,Support to ambulance staff,S26 Genitourinary & gynaecological disorders,1551.80644,0.0
+31/08/2023,Support to ambulance staff,S27 Infectious diseases,1674.03558,0.0
+31/08/2023,Support to ambulance staff,S28 Injury fracture,5269.24363,0.0
+31/08/2023,Support to ambulance staff,S29 Nervous system disorders,953.9426,0.0
+31/08/2023,Support to ambulance staff,S30 Pregnancy related disorders,1309.96505,0.0
+31/08/2023,Support to ambulance staff,S31 Skin disorders,491.49331,0.0
+31/08/2023,Support to ambulance staff,S32 Substance abuse,3.68,0.0
+31/08/2023,Support to ambulance staff,S98 Other known causes - not elsewhere classified,3407.6555,0.0
+31/08/2023,Support to ambulance staff,S99 Unknown causes / Not specified,2409.23945,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S10 Anxiety/stress/depression/other psychiatric illnesses,178903.41516,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S11 Back Problems,33778.30871,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S12 Other musculoskeletal problems,68680.8352,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S13 Cold Cough Flu - Influenza,39181.25014,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S14 Asthma,1776.12199,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S15 Chest & respiratory problems,24615.4302,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S16 Headache / migraine,16920.76024,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S17 Benign and malignant tumours cancers,17089.86021,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S18 Blood disorders,2789.81033,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S19 Heart cardiac & circulatory problems,16034.44264,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S20 Burns poisoning frostbite hypothermia,506.14727,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S21 Ear nose throat (ENT),11920.22226,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S22 Dental and oral problems,3285.92325,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S23 Eye problems,6186.14705,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S24 Endocrine / glandular problems,3433.71867,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S25 Gastrointestinal problems,53323.69404,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S26 Genitourinary & gynaecological disorders,24411.81498,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S27 Infectious diseases,18354.25389,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S28 Injury fracture,36586.91171,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S29 Nervous system disorders,7376.52964,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S30 Pregnancy related disorders,16519.35341,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S31 Skin disorders,4943.3793,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S32 Substance abuse,309.73313,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S98 Other known causes - not elsewhere classified,41454.63094,0.0
+31/08/2023,"Support to doctors, nurses & midwives",S99 Unknown causes / Not specified,16026.20179,0.0
+31/08/2023,Associate Specialist,S10 Anxiety/stress/depression/other psychiatric illnesses,479.064,0.0
+31/08/2023,Associate Specialist,S11 Back Problems,32.2,0.0
+31/08/2023,Associate Specialist,S12 Other musculoskeletal problems,156.37318,0.0
+31/08/2023,Associate Specialist,S13 Cold Cough Flu - Influenza,103.416,0.0
+31/08/2023,Associate Specialist,S15 Chest & respiratory problems,126.723,0.0
+31/08/2023,Associate Specialist,S16 Headache / migraine,12.0,0.0
+31/08/2023,Associate Specialist,S17 Benign and malignant tumours cancers,108.5,0.0
+31/08/2023,Associate Specialist,S19 Heart cardiac & circulatory problems,95.0,0.0
+31/08/2023,Associate Specialist,S21 Ear nose throat (ENT),46.25,0.0
+31/08/2023,Associate Specialist,S22 Dental and oral problems,2.95,0.0
+31/08/2023,Associate Specialist,S23 Eye problems,8.0,0.0
+31/08/2023,Associate Specialist,S25 Gastrointestinal problems,78.25,0.0
+31/08/2023,Associate Specialist,S26 Genitourinary & gynaecological disorders,32.6479,0.0
+31/08/2023,Associate Specialist,S27 Infectious diseases,79.0375,0.0
+31/08/2023,Associate Specialist,S28 Injury fracture,130.1,0.0
+31/08/2023,Associate Specialist,S29 Nervous system disorders,31.0,0.0
+31/08/2023,Associate Specialist,S31 Skin disorders,42.375,0.0
+31/08/2023,Associate Specialist,S98 Other known causes - not elsewhere classified,129.328,0.0
+31/08/2023,Associate Specialist,S99 Unknown causes / Not specified,69.63609,0.0
+31/08/2023,Consultant,S10 Anxiety/stress/depression/other psychiatric illnesses,7043.05431,0.0
+31/08/2023,Consultant,S11 Back Problems,961.2125,0.0
+31/08/2023,Consultant,S12 Other musculoskeletal problems,1582.695,0.0
+31/08/2023,Consultant,S13 Cold Cough Flu - Influenza,1582.2882,0.0
+31/08/2023,Consultant,S14 Asthma,1.75,0.0
+31/08/2023,Consultant,S15 Chest & respiratory problems,946.2555,0.0
+31/08/2023,Consultant,S16 Headache / migraine,309.9918,0.0
+31/08/2023,Consultant,S17 Benign and malignant tumours cancers,1965.9583,0.0
+31/08/2023,Consultant,S18 Blood disorders,105.3499,0.0
+31/08/2023,Consultant,S19 Heart cardiac & circulatory problems,806.2969,0.0
+31/08/2023,Consultant,S20 Burns poisoning frostbite hypothermia,11.0,0.0
+31/08/2023,Consultant,S21 Ear nose throat (ENT),316.0825,0.0
+31/08/2023,Consultant,S22 Dental and oral problems,48.509100000000004,0.0
+31/08/2023,Consultant,S23 Eye problems,271.163,0.0
+31/08/2023,Consultant,S24 Endocrine / glandular problems,150.85,0.0
+31/08/2023,Consultant,S25 Gastrointestinal problems,932.32021,0.0
+31/08/2023,Consultant,S26 Genitourinary & gynaecological disorders,623.275,0.0
+31/08/2023,Consultant,S27 Infectious diseases,1014.2918,0.0
+31/08/2023,Consultant,S28 Injury fracture,1545.4834,0.0
+31/08/2023,Consultant,S29 Nervous system disorders,300.8975,0.0
+31/08/2023,Consultant,S30 Pregnancy related disorders,123.225,0.0
+31/08/2023,Consultant,S31 Skin disorders,100.45,0.0
+31/08/2023,Consultant,S32 Substance abuse,14.725,0.0
+31/08/2023,Consultant,S98 Other known causes - not elsewhere classified,3426.72229,0.0
+31/08/2023,Consultant,S99 Unknown causes / Not specified,2301.2902,0.0
+31/08/2023,Core Training,S10 Anxiety/stress/depression/other psychiatric illnesses,1659.40625,0.0
+31/08/2023,Core Training,S11 Back Problems,251.60625,0.0
+31/08/2023,Core Training,S12 Other musculoskeletal problems,431.3825,0.0
+31/08/2023,Core Training,S13 Cold Cough Flu - Influenza,1621.2735,0.0
+31/08/2023,Core Training,S14 Asthma,37.0,0.0
+31/08/2023,Core Training,S15 Chest & respiratory problems,286.5,0.0
+31/08/2023,Core Training,S16 Headache / migraine,356.725,0.0
+31/08/2023,Core Training,S17 Benign and malignant tumours cancers,175.7625,0.0
+31/08/2023,Core Training,S18 Blood disorders,33.0,0.0
+31/08/2023,Core Training,S19 Heart cardiac & circulatory problems,86.0,0.0
+31/08/2023,Core Training,S20 Burns poisoning frostbite hypothermia,1.0,0.0
+31/08/2023,Core Training,S21 Ear nose throat (ENT),170.69375,0.0
+31/08/2023,Core Training,S22 Dental and oral problems,45.33475,0.0
+31/08/2023,Core Training,S23 Eye problems,28.9,0.0
+31/08/2023,Core Training,S24 Endocrine / glandular problems,17.09375,0.0
+31/08/2023,Core Training,S25 Gastrointestinal problems,1148.2585,0.0
+31/08/2023,Core Training,S26 Genitourinary & gynaecological disorders,137.0375,0.0
+31/08/2023,Core Training,S27 Infectious diseases,404.7375,0.0
+31/08/2023,Core Training,S28 Injury fracture,630.66875,0.0
+31/08/2023,Core Training,S29 Nervous system disorders,39.7875,0.0
+31/08/2023,Core Training,S30 Pregnancy related disorders,296.65125,0.0
+31/08/2023,Core Training,S31 Skin disorders,43.68125,0.0
+31/08/2023,Core Training,S98 Other known causes - not elsewhere classified,1247.825,0.0
+31/08/2023,Core Training,S99 Unknown causes / Not specified,824.395,0.0
+31/08/2023,Foundation Doctor Year 1,S10 Anxiety/stress/depression/other psychiatric illnesses,207.625,0.0
+31/08/2023,Foundation Doctor Year 1,S11 Back Problems,13.46875,0.0
+31/08/2023,Foundation Doctor Year 1,S12 Other musculoskeletal problems,10.375,0.0
+31/08/2023,Foundation Doctor Year 1,S13 Cold Cough Flu - Influenza,439.03125,0.0
+31/08/2023,Foundation Doctor Year 1,S14 Asthma,2.0,0.0
+31/08/2023,Foundation Doctor Year 1,S15 Chest & respiratory problems,80.08125,0.0
+31/08/2023,Foundation Doctor Year 1,S16 Headache / migraine,134.6625,0.0
+31/08/2023,Foundation Doctor Year 1,S17 Benign and malignant tumours cancers,23.0875,0.0
+31/08/2023,Foundation Doctor Year 1,S18 Blood disorders,2.0,0.0
+31/08/2023,Foundation Doctor Year 1,S21 Ear nose throat (ENT),30.1125,0.0
+31/08/2023,Foundation Doctor Year 1,S22 Dental and oral problems,19.0,0.0
+31/08/2023,Foundation Doctor Year 1,S23 Eye problems,13.0,0.0
+31/08/2023,Foundation Doctor Year 1,S24 Endocrine / glandular problems,2.0,0.0
+31/08/2023,Foundation Doctor Year 1,S25 Gastrointestinal problems,291.3875,0.0
+31/08/2023,Foundation Doctor Year 1,S26 Genitourinary & gynaecological disorders,69.7125,0.0
+31/08/2023,Foundation Doctor Year 1,S27 Infectious diseases,187.8,0.0
+31/08/2023,Foundation Doctor Year 1,S28 Injury fracture,105.6,0.0
+31/08/2023,Foundation Doctor Year 1,S29 Nervous system disorders,6.0,0.0
+31/08/2023,Foundation Doctor Year 1,S30 Pregnancy related disorders,3.81875,0.0
+31/08/2023,Foundation Doctor Year 1,S31 Skin disorders,32.0,0.0
+31/08/2023,Foundation Doctor Year 1,S98 Other known causes - not elsewhere classified,137.55,0.0
+31/08/2023,Foundation Doctor Year 1,S99 Unknown causes / Not specified,172.30625,0.0
+31/08/2023,Foundation Doctor Year 2,S10 Anxiety/stress/depression/other psychiatric illnesses,550.3425,0.0
+31/08/2023,Foundation Doctor Year 2,S11 Back Problems,69.7375,0.0
+31/08/2023,Foundation Doctor Year 2,S12 Other musculoskeletal problems,84.5625,0.0
+31/08/2023,Foundation Doctor Year 2,S13 Cold Cough Flu - Influenza,720.055,0.0
+31/08/2023,Foundation Doctor Year 2,S14 Asthma,1.0,0.0
+31/08/2023,Foundation Doctor Year 2,S15 Chest & respiratory problems,166.35,0.0
+31/08/2023,Foundation Doctor Year 2,S16 Headache / migraine,226.30625,0.0
+31/08/2023,Foundation Doctor Year 2,S17 Benign and malignant tumours cancers,23.0,0.0
+31/08/2023,Foundation Doctor Year 2,S19 Heart cardiac & circulatory problems,1.0,0.0
+31/08/2023,Foundation Doctor Year 2,S20 Burns poisoning frostbite hypothermia,5.0,0.0
+31/08/2023,Foundation Doctor Year 2,S21 Ear nose throat (ENT),83.875,0.0
+31/08/2023,Foundation Doctor Year 2,S22 Dental and oral problems,16.0,0.0
+31/08/2023,Foundation Doctor Year 2,S23 Eye problems,17.0,0.0
+31/08/2023,Foundation Doctor Year 2,S24 Endocrine / glandular problems,10.0,0.0
+31/08/2023,Foundation Doctor Year 2,S25 Gastrointestinal problems,503.25,0.0
+31/08/2023,Foundation Doctor Year 2,S26 Genitourinary & gynaecological disorders,27.0,0.0
+31/08/2023,Foundation Doctor Year 2,S27 Infectious diseases,194.575,0.0
+31/08/2023,Foundation Doctor Year 2,S28 Injury fracture,120.3875,0.0
+31/08/2023,Foundation Doctor Year 2,S29 Nervous system disorders,57.0,0.0
+31/08/2023,Foundation Doctor Year 2,S30 Pregnancy related disorders,97.4125,0.0
+31/08/2023,Foundation Doctor Year 2,S31 Skin disorders,39.775,0.0
+31/08/2023,Foundation Doctor Year 2,S98 Other known causes - not elsewhere classified,318.20625,0.0
+31/08/2023,Foundation Doctor Year 2,S99 Unknown causes / Not specified,247.13125,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S10 Anxiety/stress/depression/other psychiatric illnesses,183.37676,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S11 Back Problems,0.3,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S12 Other musculoskeletal problems,8.58951,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S13 Cold Cough Flu - Influenza,46.41689,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S15 Chest & respiratory problems,24.829,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S16 Headache / migraine,4.04674,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S17 Benign and malignant tumours cancers,21.7,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S19 Heart cardiac & circulatory problems,5.8,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S21 Ear nose throat (ENT),0.5,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S22 Dental and oral problems,0.275,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S23 Eye problems,1.0,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S25 Gastrointestinal problems,47.729299999999995,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S26 Genitourinary & gynaecological disorders,16.10269,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S27 Infectious diseases,8.0,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S28 Injury fracture,0.84,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S31 Skin disorders,1.6,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S98 Other known causes - not elsewhere classified,73.38949,0.0
+31/08/2023,Hospital Practitioner / Clinical Assistant,S99 Unknown causes / Not specified,22.03071,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S10 Anxiety/stress/depression/other psychiatric illnesses,355.63285,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S11 Back Problems,42.95,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S12 Other musculoskeletal problems,169.80006,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S13 Cold Cough Flu - Influenza,42.48955,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S14 Asthma,18.6,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S15 Chest & respiratory problems,13.774370000000001,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S16 Headache / migraine,33.18667,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S18 Blood disorders,0.725,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S19 Heart cardiac & circulatory problems,6.2,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S21 Ear nose throat (ENT),44.8,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S22 Dental and oral problems,2.0,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S23 Eye problems,2.2,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S25 Gastrointestinal problems,71.04706,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S26 Genitourinary & gynaecological disorders,33.96,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S27 Infectious diseases,24.8,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S28 Injury fracture,28.6,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S29 Nervous system disorders,28.340000000000003,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S30 Pregnancy related disorders,44.1,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S31 Skin disorders,3.8,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S98 Other known causes - not elsewhere classified,154.97337,0.0
+31/08/2023,Other and Local HCHS Doctor Grades,S99 Unknown causes / Not specified,32.6,0.0
+31/08/2023,Specialty Doctor,S10 Anxiety/stress/depression/other psychiatric illnesses,1857.012,0.0
+31/08/2023,Specialty Doctor,S11 Back Problems,378.875,0.0
+31/08/2023,Specialty Doctor,S12 Other musculoskeletal problems,537.175,0.0
+31/08/2023,Specialty Doctor,S13 Cold Cough Flu - Influenza,663.4181,0.0
+31/08/2023,Specialty Doctor,S14 Asthma,41.85,0.0
+31/08/2023,Specialty Doctor,S15 Chest & respiratory problems,270.99,0.0
+31/08/2023,Specialty Doctor,S16 Headache / migraine,111.6473,0.0
+31/08/2023,Specialty Doctor,S17 Benign and malignant tumours cancers,219.70000000000002,0.0
+31/08/2023,Specialty Doctor,S18 Blood disorders,4.55,0.0
+31/08/2023,Specialty Doctor,S19 Heart cardiac & circulatory problems,314.2,0.0
+31/08/2023,Specialty Doctor,S21 Ear nose throat (ENT),118.2,0.0
+31/08/2023,Specialty Doctor,S22 Dental and oral problems,20.6,0.0
+31/08/2023,Specialty Doctor,S23 Eye problems,194.2,0.0
+31/08/2023,Specialty Doctor,S25 Gastrointestinal problems,402.6986,0.0
+31/08/2023,Specialty Doctor,S26 Genitourinary & gynaecological disorders,185.2872,0.0
+31/08/2023,Specialty Doctor,S27 Infectious diseases,267.7349,0.0
+31/08/2023,Specialty Doctor,S28 Injury fracture,414.1356,0.0
+31/08/2023,Specialty Doctor,S29 Nervous system disorders,17.355,0.0
+31/08/2023,Specialty Doctor,S30 Pregnancy related disorders,138.35,0.0
+31/08/2023,Specialty Doctor,S31 Skin disorders,1.6199999999999999,0.0
+31/08/2023,Specialty Doctor,S98 Other known causes - not elsewhere classified,792.81,0.0
+31/08/2023,Specialty Doctor,S99 Unknown causes / Not specified,470.288,0.0
+31/08/2023,Specialty Registrar,S10 Anxiety/stress/depression/other psychiatric illnesses,3703.30625,0.0
+31/08/2023,Specialty Registrar,S11 Back Problems,446.94875,0.0
+31/08/2023,Specialty Registrar,S12 Other musculoskeletal problems,662.75,0.0
+31/08/2023,Specialty Registrar,S13 Cold Cough Flu - Influenza,1880.63825,0.0
+31/08/2023,Specialty Registrar,S14 Asthma,50.25625,0.0
+31/08/2023,Specialty Registrar,S15 Chest & respiratory problems,654.25,0.0
+31/08/2023,Specialty Registrar,S16 Headache / migraine,328.45045,0.0
+31/08/2023,Specialty Registrar,S17 Benign and malignant tumours cancers,519.55,0.0
+31/08/2023,Specialty Registrar,S19 Heart cardiac & circulatory problems,102.0,0.0
+31/08/2023,Specialty Registrar,S20 Burns poisoning frostbite hypothermia,2.78125,0.0
+31/08/2023,Specialty Registrar,S21 Ear nose throat (ENT),222.45625,0.0
+31/08/2023,Specialty Registrar,S22 Dental and oral problems,78.7625,0.0
+31/08/2023,Specialty Registrar,S23 Eye problems,93.01875,0.0
+31/08/2023,Specialty Registrar,S24 Endocrine / glandular problems,27.0,0.0
+31/08/2023,Specialty Registrar,S25 Gastrointestinal problems,1362.10166,0.0
+31/08/2023,Specialty Registrar,S26 Genitourinary & gynaecological disorders,343.375,0.0
+31/08/2023,Specialty Registrar,S27 Infectious diseases,762.78125,0.0
+31/08/2023,Specialty Registrar,S28 Injury fracture,1069.576,0.0
+31/08/2023,Specialty Registrar,S29 Nervous system disorders,103.6375,0.0
+31/08/2023,Specialty Registrar,S30 Pregnancy related disorders,738.58125,0.0
+31/08/2023,Specialty Registrar,S31 Skin disorders,38.98125,0.0
+31/08/2023,Specialty Registrar,S32 Substance abuse,30.0,0.0
+31/08/2023,Specialty Registrar,S98 Other known causes - not elsewhere classified,1350.57,0.0
+31/08/2023,Specialty Registrar,S99 Unknown causes / Not specified,1226.7365,0.0
+31/08/2023,Staff Grade,S10 Anxiety/stress/depression/other psychiatric illnesses,9.0,0.0
+31/08/2023,Staff Grade,S12 Other musculoskeletal problems,32.0,0.0
+31/08/2023,Staff Grade,S13 Cold Cough Flu - Influenza,11.2,0.0
+31/08/2023,Staff Grade,S16 Headache / migraine,6.5,0.0
+31/08/2023,Staff Grade,S22 Dental and oral problems,32.0,0.0
+31/08/2023,Staff Grade,S24 Endocrine / glandular problems,31.0,0.0
+31/08/2023,Staff Grade,S28 Injury fracture,2.4,0.0
+31/08/2023,Staff Grade,S98 Other known causes - not elsewhere classified,7.0,0.0
+31/08/2023,Staff Grade,S99 Unknown causes / Not specified,1.0,0.0
