@@ -36,8 +36,7 @@ shrt <- shrt %>%
   mutate(date = lubridate::dmy(date))
 tot <- bind_rows(old = lng, new = shrt, .id = "data_type")
 tot <- tot %>% 
-  mutate(staff_group = str_to_lower(staff_group),
-         reason = str_to_lower(reason))
+  mutate(staff_group = str_to_lower(staff_group))
 
 write_csv(tot, "Scratch_data/alldata.csv")
 
