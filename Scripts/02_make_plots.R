@@ -81,10 +81,17 @@ causes_smry <- causes_smry %>%
                         labels = lbls))
 causes_smry <- causes_smry %>% 
   mutate(myalpha = if_else(reason_hrm == "Other", 1, 1))
+# set "other to gray
+lvls <- levels(causes_smry$reason_hrm)
+default_cols <- scales::hue_pal()(length(lvls))
+set.seed(10)
+names(default_cols) <- lvls
+default_cols["Other"] <- "gray60"   # or "gray40", etc.
+
 plot_reason <- ggplot(causes_smry, aes(
     x    = factor(yr),     # treat year as discrete categories
     y    = 100*p,              # percent‐points (0–100)
-    fill = factor(reason_hrm),
+    fill = reason_hrm,
     alpha = myalpha
   )) +
   geom_col(position = "fill", color = "white", linewidth = 0.2) +
@@ -97,6 +104,7 @@ plot_reason <- ggplot(causes_smry, aes(
     y    = "Proportion",
     fill = "Reason"
   ) +
+  scale_fill_manual(values = default_cols) +
   theme_minimal() +
   theme(
     axis.text.x = element_text(size = 10)
